@@ -32,13 +32,13 @@ function productCardHTML(stockProduct, cartProductData){
 
 // Default products:
 let stockProducts = [
-    new Product("0", "Producto 0", 10, 3, "./img/bx-shopping-bag.svg"),
-    new Product("1", "Producto 1", 20, 10, "./img/bx-shopping-bag.svg"),
-    new Product("2", "Producto 2", 250, 2, "./img/bx-shopping-bag.svg"),
-    new Product("3", "Producto 3", 40, 5, "./img/bx-shopping-bag.svg"),
-    new Product("4", "Producto 4", 80, 20, "./img/bx-shopping-bag.svg"),
-    new Product("5", "Producto 5", 30, 10, "./img/bx-shopping-bag.svg"),
-    new Product("6", "Producto 6", 110, 3, "./img/bx-shopping-bag.svg"),
+    new Product("0", "Producto 0", 10, 3, "https://francoponzio31.github.io/JS---eCommerce/img/bx-shopping-bag.svg"),
+    new Product("1", "Producto 1", 20, 10, "https://francoponzio31.github.io/JS---eCommerce/img/bx-shopping-bag.svg"),
+    new Product("2", "Producto 2", 250, 2, "https://francoponzio31.github.io/JS---eCommerce/img/bx-shopping-bag.svg"),
+    new Product("3", "Producto 3", 40, 5, "https://francoponzio31.github.io/JS---eCommerce/img/bx-shopping-bag.svg"),
+    new Product("4", "Producto 4", 80, 20, "https://francoponzio31.github.io/JS---eCommerce/img/bx-shopping-bag.svg"),
+    new Product("5", "Producto 5", 30, 10, "https://francoponzio31.github.io/JS---eCommerce/img/bx-shopping-bag.svg"),
+    new Product("6", "Producto 6", 110, 3, "https://francoponzio31.github.io/JS---eCommerce/img/bx-shopping-bag.svg"),
 ];
 
 
