@@ -1,0 +1,72 @@
+[
+    {
+        "id": "0",
+        "name": "Producto 0",
+        "price": 10,
+        "stock": 3,
+        "img": "img/0-circle-fill.svg"
+    },
+    {
+        "id": "1",
+        "name": "Producto 1",
+        "price": 20,
+        "stock": 10,
+        "img": "img/1-circle-fill.svg"
+    },
+    {
+        "id": "2",
+        "name": "Producto 2",
+        "price": 250,
+        "stock": 2,
+        "img": "img/2-circle-fill.svg"
+    },
+    {
+        "id": "3",
+        "name": "Producto 3",
+        "price": 40,
+        "stock": 5,
+        "img": "img/3-circle-fill.svg"
+    },
+    {
+        "id": "4",
+        "name": "Producto 4",
+        "price": 8,
+        "stock": 20,
+        "img": "img/4-circle-fill.svg"
+    },
+    {
+        "id": "5",
+        "name": "Producto 5",
+        "price": 30,
+        "stock": 10,
+        "img": "img/5-circle-fill.svg"
+    },
+    {
+        "id": "6",
+        "name": "Producto 6",
+        "price": 110,
+        "stock": 3,
+        "img": "img/6-circle-fill.svg"
+    },
+    {
+        "id": "7",
+        "name": "Producto 7",
+        "price": 140,
+        "stock": 8,
+        "img": "img/7-circle-fill.svg"
+    },
+    {
+        "id": "8",
+        "name": "Producto 8",
+        "price": 200,
+        "stock": 30,
+        "img": "img/8-circle-fill.svg"
+    },
+    {
+        "id": "9",
+        "name": "Producto 9",
+        "price": 120,
+        "stock": 22,
+        "img": "img/9-circle-fill.svg"
+    }
+]
